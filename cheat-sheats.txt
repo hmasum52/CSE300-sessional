@@ -1,0 +1,8 @@
+math equations
+https://kapeli.com/cheat_sheets/LaTeX_Math_Symbols.docset/Contents/Resources/Documents/index
+http://tug.ctan.org/info/undergradmath/undergradmath.pdf
+
+
+other:
+https://users.dickinson.edu/~richesod/latex/latexcheatsheet.pdf
+https://wch.github.io/latexsheet/latexsheet-a4.pdf
